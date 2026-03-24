@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CppInterfaceCreator/1.0.0": {
+        "dependencies": {
+          "envdte": "17.14.40260"
+        },
+        "runtime": {
+          "CppInterfaceCreator.dll": {}
+        }
+      },
+      "envdte/17.14.40260": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Interop": "17.14.40260"
+        },
+        "runtime": {
+          "lib/net8.0/envdte.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.14.40260.2045"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime/17.14.40254": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.25023.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Interop/17.14.40260": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime": "17.14.40254"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.VisualStudio.Interop.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.14.40260.2045"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CppInterfaceCreator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "envdte/17.14.40260": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8QsDS8a5ke/1eRdkvQCNEdzGG6wKdyV3smYbFHRVbnUenfmxetk+fHTLWJpjulpX64fP7NA/UC+GFIx4V0ulPQ==",
+      "path": "envdte/17.14.40260",
+      "hashPath": "envdte.17.14.40260.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime/17.14.40254": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZwQ7yWYcDLjJbbtOjrbqbxRMCQGDzhm2hkqb+vpxidYjGlMS/5kBT1j5HE7hsZGTm66RtqsK5wz8/1/NYt+wnA==",
+      "path": "microsoft.visualstudio.imaging.interop.14.0.designtime/17.14.40254",
+      "hashPath": "microsoft.visualstudio.imaging.interop.14.0.designtime.17.14.40254.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Interop/17.14.40260": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3jG1PSm3mq6SgkT1sKXnukeQxzmm31VEZH+b7EIfyyKOx01fMsr5Iq/sXwW9+4TxDe1sKjbWIJbI5QAkAOCatA==",
+      "path": "microsoft.visualstudio.interop/17.14.40260",
+      "hashPath": "microsoft.visualstudio.interop.17.14.40260.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\CppInterfaceCreator.exe
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\CppInterfaceCreator.dll
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\CppInterfaceCreator.deps.json
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\CppInterfaceCreator.runtimeconfig.json
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\CppInterfaceCreator.pdb
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\envdte.dll
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\stdole.dll
+C:\Users\YangYu\Source\Repos\CppInterfaceCreator\bin\Release\net8.0\publish\envdte.xml

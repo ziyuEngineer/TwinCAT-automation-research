@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEYPUUl2pbU=",
+  "success": true,
+  "projectFilePath": "D:\\2nd_year\\auto_interface\\beckoff\\CppInterfaceCreator\\CppInterfaceCreator\\CppInterfaceCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\envdte\\17.14.40260\\envdte.17.14.40260.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.visualstudio.imaging.interop.14.0.designtime\\17.14.40254\\microsoft.visualstudio.imaging.interop.14.0.designtime.17.14.40254.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.visualstudio.interop\\17.14.40260\\microsoft.visualstudio.interop.17.14.40260.nupkg.sha512"
+  ],
+  "logs": []
+}
